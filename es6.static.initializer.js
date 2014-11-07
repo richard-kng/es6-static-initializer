@@ -1,5 +1,5 @@
 /*
- es6.static.initializer 1.0.0 Copyright (c) 2014 "Richard KnG" Richárd Szakács
+ es6.static.initializer 1.0.1 Copyright (c) 2014 "Richard KnG" Richárd Szakács
  Licensed under the MIT license.
  see: https://github.com/richard-kng/es6-static-initializer for details
 */

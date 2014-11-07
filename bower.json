@@ -1,6 +1,6 @@
 {
   "name": "es6-static-initializer",
-  "description": "",
+  "description": "Provides a feature to use static initializers in classes. ECMAScript 6.",
   "homepage": "https://github.com/richard-kng/es6-static-initializer",
   "repository": "git://github.com/richard-kng/es6-static-initializer.git",
   "keywords": [

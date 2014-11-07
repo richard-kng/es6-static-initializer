@@ -1,6 +1,6 @@
 es6-static-initializer [![Build Status](https://travis-ci.org/richard-kng/es6-static-initializer.svg?branch=master)](https://travis-ci.org/richard-kng/es6-static-initializer)
 ======================
-__es6-static-initializer__
+__Provides a feature to use static initializers in classes. ECMAScript 6.__
 
 To support this project, you can at [the support page](http://richard-kng.github.io/support/) by supporting the developer.
 
