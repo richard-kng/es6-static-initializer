@@ -1,4 +1,4 @@
-es6-static-initializer [![Build Status](https://travis-ci.org/richard-kng/es6-static-initializer.svg?branch=master)](https://travis-ci.org/richard-kng/es6-static-initializer)
+es6-static-initializer [![Build Status](https://travis-ci.org/richard-kng/es6-static-initializer.svg?branch=master)](https://travis-ci.org/richard-kng/es6-static-initializer) [![Greenkeeper badge](https://badges.greenkeeper.io/richrdkng/es6-static-initializer.svg)](https://greenkeeper.io/)
 ======================
 __Provides a feature to use static initializers in classes. ECMAScript 6.__
 
